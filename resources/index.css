@@ -1,0 +1,47 @@
+html{
+  font-family: helvetica;
+  text-align: center;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a{
+  font-size: 18px;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#top{
+  background-image: url("./backgroundImage.png");
+}
+
+#designed{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("./backgroundImage.png");
+}
+
+p{
+  font-size: 14px;
+}
+
+#end p{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
